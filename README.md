@@ -4,7 +4,7 @@ This repository contains code and associated files for deploying a plagiarism de
 This Project is part of the Module 'Machine Learning, Case Studies' in the Machine Learning Engineer Nanodegree, offered at Udacity, School of AI.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/dilayercelik/Plagiarism-Detector/blob/master/plagiarism-checker.png">
+  <img width="600" height="300" src="https://github.com/dilayercelik/Plagiarism-Detector/blob/master/plagiarism-checker.png">
 </p>
 
 # Project Overview
