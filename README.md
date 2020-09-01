@@ -38,6 +38,10 @@ This project will be broken down into three main notebooks:
 
 - Evaluate your deployed classifier.
 
+# Setup
+
+Please see the [README](https://github.com/udacity/ML_SageMaker_Studies/tree/master/README.md) in the root directory of Udacity's repo for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
+
 
 # Files
 
