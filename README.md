@@ -40,3 +40,18 @@ This project will be broken down into three main notebooks:
 
 
 # Files
+
+- [1_ Data_Exploration](https://github.com/dilayercelik/Plagiarism-Detector/tree/master/1_%20Data_Exploration)
+
+- [2_Plagiarism_Feature_Engineering](https://github.com/dilayercelik/Plagiarism-Detector/tree/master/2_Plagiarism_Feature_Engineering)
+
+- [3_Training_a_Model](https://github.com/dilayercelik/Plagiarism-Detector/tree/master/3_Training_a_Model)
+
+
+- [notebook_ims](https://github.com/dilayercelik/Plagiarism-Detector/tree/master/notebook_ims)
+
+- [plagiarism_data](https://github.com/dilayercelik/Plagiarism-Detector/tree/master/plagiarism_data)
+
+- [preliminary-notebook/calculate-containment](https://github.com/dilayercelik/Plagiarism-Detector/tree/master/preliminary-notebook/calculate-containment)
+
+- [helpers.py](https://github.com/dilayercelik/Plagiarism-Detector/blob/master/helpers.py)
