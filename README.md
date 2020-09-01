@@ -55,3 +55,11 @@ This project will be broken down into three main notebooks:
 - [preliminary-notebook/calculate-containment](https://github.com/dilayercelik/Plagiarism-Detector/tree/master/preliminary-notebook/calculate-containment)
 
 - [helpers.py](https://github.com/dilayercelik/Plagiarism-Detector/blob/master/helpers.py)
+
+
+# Acknowledgement
+This repository was made possible by Udacity, most specifically the popular Machine Learning Engineer Nanodegree, and is the fruit of my own work and effort as well.
+
+Special credits and thanks go to the instructors and mentors at Udacity for providing high-quality content and tailored help to their students. If you'd like to know more about the specific nanodegree mentioned above, you can have a look [here](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t).
+
+To access the syllabus of the programme, here's the [link](https://s3.amazonaws.com/iridium-content/documents/en-US/machine-learning-engineer-nanodegree-program-syllabus.pdf).
